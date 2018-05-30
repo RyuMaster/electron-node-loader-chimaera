@@ -1,0 +1,12 @@
+{
+  "name": "electron-node-loader-chimaera",
+  "version": "1.1.1",
+  "description": "A webpack loader that allows you loader native Node addons inside an Electron app.",
+  "main": "index.js",
+  "repository": "https://github.com/RyuMaster/electron-node-loader-chimaera.git",
+  "author": "Paul Roman <paul.roman@epitech.eu>",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
